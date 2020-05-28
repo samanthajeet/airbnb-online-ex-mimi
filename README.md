@@ -1,4 +1,4 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![plant](https://imgur.com/X4MlMtQ)
 
 ## Checkout new branch
 `git checkout -b [branch name]`
