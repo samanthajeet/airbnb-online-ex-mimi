@@ -10,7 +10,7 @@ const Menu = () => {
     "Sign Up",
   ];
 
-  const MenuItems = menuData.map((element) => <MenuButton label={element} />);
+  const MenuItems = menuData.map((element) => <MenuButton label={element}/>);
 
   return (
     <div className="menu-container">
