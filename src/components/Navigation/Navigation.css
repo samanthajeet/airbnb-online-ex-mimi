@@ -9,7 +9,9 @@
 }
 
 .menu-container{
+    display: flex;
+    justify-content: flex-end;
     width: 45%;
     display: flex;
-    justify-content: space-between;
+
 }
